@@ -3,6 +3,7 @@
 
     <string name="app_name">ShowInfo</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title">【端末情報】</string>
+    <string name="lineLabel">電話番号：</string>
 
 </resources>
